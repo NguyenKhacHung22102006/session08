@@ -1,0 +1,17 @@
+.pro{
+    width: 100px;
+    height: 50px;
+}
+*{
+    text-align: center;
+}
+.vip{
+    border: 2px solid gray;
+    width: 50%;
+}
+.noob{
+    opacity: 0.5;
+}
+.hot{
+    font-family:  Arial, Helvetica, sans-serif;
+}

@@ -1,0 +1,12 @@
+.noob{
+    color: red;
+}
+.pro{
+    opacity: 0.5;
+}
+.hot{
+    background-color: white;
+    color: red;
+    width: 100px;
+    border: 2px solid red;
+}
